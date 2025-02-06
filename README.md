@@ -46,6 +46,8 @@ Use an auto-scaling group to manage instance scaling.
 Deploy an RDS instance in a private subnet.
 
 Configure security groups to restrict access.
+![Screenshot](https://raw.githubusercontent.com/iamnishant22/Deploy-Two-Tier-Architecture-on-AWS-using-Terraform/main/Terra_project/Screenshot%20(121).png)
+
 
 **Security & Networking:**
 
