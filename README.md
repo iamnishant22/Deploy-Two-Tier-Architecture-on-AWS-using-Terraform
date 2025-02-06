@@ -14,6 +14,8 @@ This project demonstrates the deployment of a highly scalable and secure two-tie
 **Amazon CloudFront** – Content delivery network (CDN) for fast global content delivery.
 
 **Amazon EC2**– Compute instances for hosting the application.
+![Screenshot](https://github.com/iamnishant22/Deploy-Two-Tier-Architecture-on-AWS-using-Terraform/blob/main/Terra_project/Screenshot%20(133).png?raw=true)
+
 
 **Amazon Auto Scaling Group**– Automatically scale EC2 instances based on demand.
 
@@ -24,6 +26,8 @@ This project demonstrates the deployment of a highly scalable and secure two-tie
 **Amazon DynamoDB**– Used for Terraform state locking.
 
 **Amazon S3**– Stores Terraform state file with versioning enabled.
+![Screenshot](https://raw.githubusercontent.com/iamnishant22/Deploy-Two-Tier-Architecture-on-AWS-using-Terraform/dd75dd37968694850e682dbef1ad04655c53a4ac/Terra_project/Screenshot%20(122).png)
+
 
 **Amazon CloudWatch** – Monitors infrastructure and sets up alarms for CPU utilization.
 
@@ -66,3 +70,7 @@ Use DynamoDB for state locking to prevent concurrent modifications.
 Set up CloudWatch to monitor CPU usage.
 
 Configure alarms to trigger scaling actions if needed.
+
+
+![Screenshot](https://github.com/iamnishant22/Deploy-Two-Tier-Architecture-on-AWS-using-Terraform/blob/main/Terra_project/Screenshot%20(134).png?raw=true)
+
